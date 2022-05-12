@@ -9,6 +9,7 @@
     "deploy": "bash push.sh && bash deploy.sh"
   },
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
   }
 }
