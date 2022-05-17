@@ -5,7 +5,8 @@ module.exports = {
   // 主题配置
   themeConfig: {
     nav: [
-      {text: 'JS基础', link: '/JS基础/'}
+      {text: 'JS基础', link: '/JS基础/01-执行上下文、作用域链，闭包'},
+      {text: 'CSS基础', link: '/CSS基础/'},
     ]
   },
   //   // 侧边栏
